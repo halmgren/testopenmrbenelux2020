@@ -85,6 +85,17 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-register { border-color: #9b59b6; }
+  #register { background-color: #9b59b6 !important; color: #eee; }
+  #register a { color: #eee; }
+  #register .sectiondivider { color: #9b59b6; }
+  #main #register .activity { border-color:  }
+  #main #register .section-lines { border-color:  }
+
+  
+  
+  
+  
   nav .p-venue { border-color: #2ecc71; }
   #venue { background-color: #2ecc71 !important; color: #eee; }
   #venue a { color: #eee; }
