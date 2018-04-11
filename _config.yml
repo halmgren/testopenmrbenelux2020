@@ -31,6 +31,7 @@ url: https://brainhackghent.github.io
 colors:
 
   aongreen: '#1C7439'
+  ugentblue: '#1E64C8'
   white:     '#eee'
 ### flat  design colors from https://www.materialui.co/flatuicolors
   turquoise: '#1abc9c'
@@ -44,8 +45,7 @@ colors:
   cobalt: '#0050ef'
   blueibro: '#051d9b'
   blueblue: '#2942C'
-  azul: '#1760E4'
-  ugentblue: '#1E64C8'
+  azul: '#1760E4'  
 ### choose matarial design colors from http://materialuicolors.co/
 
 
