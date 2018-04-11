@@ -32,6 +32,7 @@ colors:
 
   aongreen: '#1C7439'
   ugentblue: '#1E64C8'
+  ugentyellow: ' #FFD200'
   white:     '#eee'
 ### flat  design colors from https://www.materialui.co/flatuicolors
   turquoise: '#1abc9c'
