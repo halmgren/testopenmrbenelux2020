@@ -475,6 +475,16 @@ html { box-sizing: border-box; }
 .text-aongreen a { color: #1C7439; }
 .bg-aongreen     { background-color: #1C7439 !important; }
 
+.border-ugentblue { border-color: #1E64C8 !important; }
+.text-ugentblue   { color: #1E64C8; }
+.text-ugentblue a { color: #1E64C8; }
+.bg-ugentblue     { background-color: #1E64C8 !important; }
+
+.border-ugentyellow { border-color:  #FFD200 !important; }
+.text-ugentyellow   { color:  #FFD200; }
+.text-ugentyellow a { color:  #FFD200; }
+.bg-ugentyellow     { background-color:  #FFD200 !important; }
+
 .border-white { border-color: #eee !important; }
 .text-white   { color: #eee; }
 .text-white a { color: #eee; }
@@ -547,12 +557,34 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-submit { border-color: #1760E4; }
+  #submit { background-color: #1760E4 !important; color: #eee; }
+  #submit a { color: #eee; }
+  #submit .sectiondivider { color: #1760E4; }
+  #main #submit .activity { border-color:  }
+  #main #submit .section-lines { border-color:  }
+
+  
+  
+  
+  
   nav .p-register { border-color: #9b59b6; }
   #register { background-color: #9b59b6 !important; color: #eee; }
   #register a { color: #eee; }
   #register .sectiondivider { color: #9b59b6; }
   #main #register .activity { border-color:  }
   #main #register .section-lines { border-color:  }
+
+  
+  
+  
+  
+  nav .p-schedule { border-color: #eee; }
+  #schedule { background-color: #eee !important; color: black; }
+  #schedule a { color: black; }
+  #schedule .sectiondivider { color: #eee; }
+  #main #schedule .activity { border-color:  }
+  #main #schedule .section-lines { border-color:  }
 
   
   
@@ -580,10 +612,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-intro { border-color: blue; }
-  #intro { background-color: blue !important; color: #eee; }
-  #intro a { color: #eee; }
-  #intro .sectiondivider { color: blue; }
+  nav .p-intro { border-color: #1E64C8; }
+  #intro { background-color: #1E64C8 !important; color:  #FFD200; }
+  #intro a { color:  #FFD200; }
+  #intro .sectiondivider { color: #1E64C8; }
   #main #intro .activity { border-color:  }
   #main #intro .section-lines { border-color:  }
 
