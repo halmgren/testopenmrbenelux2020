@@ -27,7 +27,7 @@ twitter_description: The registration for the  Brainhack Ghent 2018 is now open!
 #
 
 countdown:
-  launch_date: 2018-05-04
+  launch_date: 2018-05-05
   format: "%d days, %H hours, %M minutes, %S seconds" 
 
 ### template colors, used site-wide via css ###
