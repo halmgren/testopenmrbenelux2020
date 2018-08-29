@@ -15,19 +15,19 @@ highlighter: rouge
 
 
 ### content configuration ###
-title: Brainhack Global Ghent 2018
-keywords: brainhack, hackaton, neuroscience, ghent, cognitive science, fMRI, modelling, simulations, open science
-description: Participate in open, reproducible neuroscience related projects to Brainhack Ghent 2018! Brainhack Ghent is a part of Brainhack Global event.
+title: OpenMR Benelux 2019
+keywords: open science, leiden, magnetic resonance imaging, MRI, fMRI, machine learning, open access publishing
+description: ...under construction...
 #source_link:
 #favicon: favicon.png?
-url: https://brainhackghent.github.io
+url: https://openmrbenelux.github.io
 #touch_icon:
 #google_analytics_key: UA-104097157-1
-twitter_description: The registration for the  Brainhack Ghent 2018 is now open!
+twitter_description: ...under construction...
 #
 
 countdown:
-  launch_date: 2018-05-05
+  launch_date: 2019-01-16
   format: "%d days, %H hours, %M minutes, %S seconds" 
 
 ### template colors, used site-wide via css ###
