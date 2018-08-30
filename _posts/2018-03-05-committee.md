@@ -2,8 +2,6 @@
 title: "Committee"
 bg: beneluxtiffa
 color: white
-
-
 ---
 
 # Commitee
