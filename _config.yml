@@ -38,6 +38,7 @@ colors:
   ugentblue: '#1E64C8'
   ugentyellow: '#FFD200'
   white:     '#eee'
+  beneluxblue: '#004777'
 ### flat  design colors from https://www.materialui.co/flatuicolors
   turquoise: '#1abc9c'
   emerald   : '#2ecc71'
