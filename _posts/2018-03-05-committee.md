@@ -7,13 +7,15 @@ color: white
 # Commitee
 
 
-## OpenMR Benelux 2019 committee:
+## Organiser:
 
 <div id="profile-container">
 
 {% include profile-card.html avatarurl="stephan.png" profilename="Stephan Heunis" affiliation="<br>Neu3CA Research Group, <br>Electrical Engineering, <br> Eindhoven University of Technology<br>Eindhoven, The Netherlands" homepage="https://www.fmrwhy.com" git="jsheunis" twitter="fmrwhy"%}
 
 
+<br>
+<br>
 <br>
 <br>
 </div>
