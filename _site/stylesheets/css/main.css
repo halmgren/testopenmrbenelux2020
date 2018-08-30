@@ -28,6 +28,31 @@ html { box-sizing: border-box; }
 .text-white a { color: #eee; }
 .bg-white     { background-color: #eee !important; }
 
+.border-beneluxblue { border-color: #004777 !important; }
+.text-beneluxblue   { color: #004777; }
+.text-beneluxblue a { color: #004777; }
+.bg-beneluxblue     { background-color: #004777 !important; }
+
+.border-beneluxred { border-color: #A30000 !important; }
+.text-beneluxred   { color: #A30000; }
+.text-beneluxred a { color: #A30000; }
+.bg-beneluxred     { background-color: #A30000 !important; }
+
+.border-beneluxorange { border-color: #FF7700 !important; }
+.text-beneluxorange   { color: #FF7700; }
+.text-beneluxorange a { color: #FF7700; }
+.bg-beneluxorange     { background-color: #FF7700 !important; }
+
+.border-beneluxbuff { border-color: #EFD28D !important; }
+.text-beneluxbuff   { color: #EFD28D; }
+.text-beneluxbuff a { color: #EFD28D; }
+.bg-beneluxbuff     { background-color: #EFD28D !important; }
+
+.border-beneluxtiffa { border-color: #00AFB5 !important; }
+.text-beneluxtiffa   { color: #00AFB5; }
+.text-beneluxtiffa a { color: #00AFB5; }
+.bg-beneluxtiffa     { background-color: #00AFB5 !important; }
+
 .border-turquoise { border-color: #1abc9c !important; }
 .text-turquoise   { color: #1abc9c; }
 .text-turquoise a { color: #1abc9c; }
