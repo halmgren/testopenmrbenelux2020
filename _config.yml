@@ -17,7 +17,7 @@ highlighter: rouge
 ### content configuration ###
 title: OpenMR Benelux 2019
 keywords: open science, leiden, magnetic resonance imaging, MRI, fMRI, machine learning, open access publishing
-description: ...under construction...
+description:
 #source_link:
 #favicon: favicon.png?
 url: https://openmrbenelux.github.io
