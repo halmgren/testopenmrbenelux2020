@@ -1,7 +1,7 @@
 ---
 title: "Committee"
-bg: beneluxtiffa
-color: white
+bg: beneluxpink
+color: black
 ---
 
 # Commitee

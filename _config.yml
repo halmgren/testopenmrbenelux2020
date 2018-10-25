@@ -43,6 +43,10 @@ colors:
   beneluxorange: '#FF7700'
   beneluxbuff: '#EFD28D'
   beneluxtiffa: '#00AFB5'
+  beneluxpurple: '#3B1F2B'
+  beneluxlightblue: '#3A405A'
+  beneluxpink: '#DAD2D8'
+
 ### flat  design colors from https://www.materialui.co/flatuicolors
   turquoise: '#1abc9c'
   emerald   : '#2ecc71'
