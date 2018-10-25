@@ -44,8 +44,8 @@ colors:
   beneluxbuff: '#EFD28D'
   beneluxtiffa: '#00AFB5'
   beneluxpurple: '#5E4751'
-  beneluxpink: '#DAD2D8'
   beneluxlightblue: '#BCE7FD'
+  beneluxpink: '#DAD2D8'
 
 ### flat  design colors from https://www.materialui.co/flatuicolors
   turquoise: '#1abc9c'
