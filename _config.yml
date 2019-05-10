@@ -15,19 +15,19 @@ highlighter: rouge
 
 
 ### content configuration ###
-title: OpenMR Benelux 2019
+title: OpenMR Benelux 2020
 keywords: open science, leiden, magnetic resonance imaging, MRI, fMRI, machine learning, open access publishing
 description:
 #source_link:
 #favicon: favicon.png?
-url: https://openmrbenelux.github.io
+url: https://testopenmrbenelux2020.github.io
 #touch_icon:
 #google_analytics_key: UA-104097157-1
-twitter_description: OpenMR Benelux 2019
+twitter_description: TEST OpenMR Benelux
 #
 
 countdown:
-  launch_date: 2019-01-16
+  launch_date: 2019-05-10
   format: "%d days, %H hours, %M minutes, %S seconds" 
 
 ### template colors, used site-wide via css ###
