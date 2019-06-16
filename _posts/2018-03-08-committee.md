@@ -11,17 +11,6 @@ color: black
 
 <div id="profile-container">
 
-{% include profile-card.html avatarurl="stephan.png" profilename="Stephan Heunis, MSc" affiliation="<br>Neu3CA Research Group, <br>Electrical Engineering, <br> Eindhoven University of Technology<br>Eindhoven, The Netherlands" homepage="https://www.fmrwhy.com" git="jsheunis" twitter="fmrwhy"%}
-
-
-<br>
-<br>
-<br>
-<br>
-</div>
-
-<div id="profile-container">
-
 {% include profile-card.html avatarurl="hannes.png" profilename="Hannes Almgren, MSc" affiliation="<br>Department of Data Analysis, <br>Faculty of Psychology and Educational Sciences, <br> Ghent University <br>Ghent, Belgium" git="halmgren" twitter="Hannes_Almgren"%}
 
 
