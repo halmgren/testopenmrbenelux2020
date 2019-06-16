@@ -7,7 +7,7 @@ color: black
 # Commitee
 
 
-## Organiser:
+## Organisers:
 
 <div id="profile-container">
 
@@ -20,6 +20,16 @@ color: black
 <br>
 </div>
 
+<div id="profile-container">
+
+{% include profile-card.html avatarurl="stephan.png" profilename="Hannes Almgren, MSc" affiliation="<br>Department of Data Analysis, <br>Faculty of Psychology and Educational Sciences, <br> Ghent University <br>Ghent, Belgium" git="halmgren" twitter="Hannes_Almgren"%}
+
+
+<br>
+<br>
+<br>
+<br>
+</div>
 
 ## Advisory board:
 
